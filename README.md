@@ -1,5 +1,5 @@
-# Medicine-_reminder_android-studio
-a medicine reminder app that notifys you like an alarm clack whenever the medicine is scheduled
+# Medicine Reminder App Using Android Studio
+A medicine reminder app that notifys you like an alarm clack whenever the medicine is scheduled
 
 this project is entirely developed in android studio
 
